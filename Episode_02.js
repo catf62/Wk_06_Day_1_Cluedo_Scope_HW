@@ -25,3 +25,5 @@ console.log(verdict);
   // murderer = 'Mrs. Peacock'
 // Reason for output
    // murderer Professor Plum at the top is a constant variable, so murderer cannot be reassigned...reading the top line might have helped!
+   
+   // variables with no markers look for existing variables with the same name, so murderer inside changeMurderer tries and fails to change const murderer, as opposed to creating a new global variable called murderer.

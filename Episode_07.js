@@ -37,3 +37,5 @@ console.log(verdict);
   //
 // Reason for output
    // See above
+
+// variables without pre-words look up to find a matching variable name, and stop looking as soon as they find one

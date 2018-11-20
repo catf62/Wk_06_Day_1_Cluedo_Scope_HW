@@ -44,3 +44,5 @@
  // Reason for output
    //Unexpected outcome must have run after PlotTwist
    // Functions within functions run in vertical order from top to bottom, regardless of the order their variables are given in
+
+   // plotTwist and unexpectedFunction are only declared when they first appeared, they are then run in the vertical order they are called in

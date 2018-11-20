@@ -23,3 +23,5 @@ console.log(`Suspect three is ${suspectThree}.`);
   // Suspect three is Mrs. Peacock.
 // Reason for output
    //See above
+
+   // functions always look within their own scope first

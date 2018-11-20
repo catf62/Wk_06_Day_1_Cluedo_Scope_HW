@@ -30,3 +30,6 @@ console.log(verdict);
   //
 // Reason for output
    //See above
+
+   // murderer declared within functions with no pre-word, always look for an exisiting variable with the same name
+   // if there are no curly brackets starting on the first line, a let on the first line invents its own invisible curly brackets taking in the whole file, this means that variables declared with a let, will only be available within this file and not from outside

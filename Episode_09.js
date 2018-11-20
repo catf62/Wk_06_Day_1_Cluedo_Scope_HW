@@ -24,3 +24,8 @@ console.log(verdict);
 //
 // Reason for output
   //See Above
+
+// if (murderer === 'Professor Plum') {
+//   murderer = 'Mrs. Peacock';
+// }
+// If murderer inside if statement had no let, it would change the murderer to Mrs Peacock outside the if statement
